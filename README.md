@@ -14,6 +14,20 @@ The architecture is composed of four complementary publications that each addres
 
 Rather than defining a new AI model or training methodology, the framework focuses on system behavior, structural risks, and architectural mechanisms that improve reliability when language models are used in decision-support environments.
 
+## Architecture Structure
+
+The AI Reliability Architecture framework can be viewed as a layered system addressing different structural aspects of human–LLM interaction.
+
+Human–LLM Reliability Architecture
+
+Operating Contract
+        ↓
+Shared Cognitive State Risk Model
+        ↓
+EIM Operational Engine
+        ↓
+ChronoContext Temporal Cognition Layer
+
 The four components of the architecture are:
 
 1. **Operating Contract**  
