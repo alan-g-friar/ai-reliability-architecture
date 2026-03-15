@@ -20,12 +20,12 @@ The AI Reliability Architecture framework can be viewed as a layered system addr
 
 Human–LLM Reliability Architecture
 
-Operating Contract
-        ↓
-Shared Cognitive State Risk Model
-        ↓
-EIM Operational Engine
-        ↓
+Operating Contract  
+        ↓  
+Shared Cognitive State Risk Model  
+        ↓  
+EIM Operational Engine  
+        ↓  
 ChronoContext Temporal Cognition Layer
 
 The four components of the architecture are:
