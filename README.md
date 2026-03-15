@@ -18,6 +18,7 @@ Rather than defining a new AI model or training methodology, the framework focus
 
 The AI Reliability Architecture framework can be viewed as a layered system addressing different structural aspects of human–LLM interaction.
 
+```
 Human–LLM Reliability Architecture
 
 Operating Contract  
@@ -27,6 +28,7 @@ Shared Cognitive State Risk Model
 EIM Operational Engine  
         ↓  
 ChronoContext Temporal Cognition Layer
+```
 
 The four components of the architecture are:
 
