@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1182545864.svg)](https://doi.org/10.5281/zenodo.19037271)
+
 # AI Reliability Architecture
 ## Structural Framework for Reliable Human–LLM Interaction Systems
 
