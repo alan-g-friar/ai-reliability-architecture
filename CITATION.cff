@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-type: software
+type: report
 title: "AI Reliability Architecture: Structural Framework for Reliable Human–LLM Interaction Systems"
 version: 1.0
 date-released: 2026-03-15
